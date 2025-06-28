@@ -1,5 +1,5 @@
-project_name = "acloudapart"
-managed_by   = "terraform"
+project_name = "A Cloud Apart"
+managed_by   = "opentofu"
 
 vpc_configs = {
   dev = {
